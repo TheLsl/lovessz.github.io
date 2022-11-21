@@ -1,7 +1,7 @@
-# 李峋同款爱心代码
+## 爱心代码
 
 #### 介绍
-演示站：`http://vr013.com/love/input.html`
+演示站：`https://thelsl.github.io/lovessz.github.io/`
 
 欢迎star
 
